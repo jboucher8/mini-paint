@@ -59,6 +59,7 @@ div div {
   height: 2%;
   width: 1%;
   padding: 10px;
+  cursor: pointer;
 }
 
 .pallette-red {
